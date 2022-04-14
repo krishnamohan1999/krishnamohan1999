@@ -1,6 +1,6 @@
 - 👋 Hi, I’m krishna
-- 👀 I’m interested in Data science and analysis 
-- 🌱 I’m currently pursuing masters in banking and financial analytics from jamia millia islamia 
+- 👀 I’m interested in Data science and analytics
+- 🌱 I’m currently pursuing masters of computer applications from jamia millia islamia 
 - 📫 How to reach me : my instagram km__tiwari
 
 <!---
